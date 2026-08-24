@@ -153,3 +153,9 @@ National Institute of Standards and Technology (NIST), Guide to Integrating Fore
 National Institute of Standards and Technology (NIST), Guidelines on Mobile Device Forensics.
 The Sleuth Kit and Autopsy Digital Forensics Platform documentation.
 Scientific Working Group on Digital Evidence (SWGDE), digital evidence best-practice guidance.
+<img width="1600" height="1032" alt="WhatsApp Image 2026-08-24 at 2 34 48 PM" src="https://github.com/user-attachments/assets/ed2580b0-7237-4c44-aee9-a0fb92f328a4" />
+<img width="1599" height="854" alt="WhatsApp Image 2026-08-24 at 2 34 11 PM" src="https://github.com/user-attachments/assets/c4ff72bf-563a-42de-b0a0-06e433e69671" />
+<img width="1599" height="1288" alt="WhatsApp Image 2026-08-24 at 2 33 25 PM" src="https://github.com/user-attachments/assets/92b5866b-7621-4fe4-a56e-16c8b23503f6" />
+<img width="1600" height="953" alt="WhatsApp Image 2026-08-24 at 1 43 50 PM (1)" src="https://github.com/user-attachments/assets/7d128026-6a20-4609-b45e-24d5907fa68e" />
+
+
